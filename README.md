@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Vandana Dasannagaari
 
-<!--
-**Vandanadasannagaari/vandanadasannagaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | B.Tech CSE Graduate
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about Java development and building web applications. I enjoy learning new technologies and improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 B.Tech in Computer Science and Engineering
+- 💻 Interested in Java Full Stack Development
+- 🌱 Learning Spring Boot and backend development
+- 🎯 Looking for entry-level software development opportunities
+- 📍 India
+
+### 🛠️ Technical Skills
+- **Programming:** Java, Core Java, Java 8
+- **Java Concepts:** OOP, Collections Framework
+- **Frontend:** HTML, CSS
+- **Database:** SQL
+- **Backend:** JDBC, Basic Spring Boot
+- **Tools:** Eclipse, Git, GitHub
+
+### 🚀 Projects
+- Hospital Management System
+- Library Management System
+
+### 📜 Certifications
+- Java Full Stack Development – JSpiders
+- NPTEL – Cloud Computing
+
+### 📫 Connect With Me
+- Email: vandanadasannagaari@gmail.com
+- GitHub: https://github.com/Vandanadasannagaari
